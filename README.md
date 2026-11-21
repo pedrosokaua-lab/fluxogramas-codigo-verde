@@ -14,6 +14,13 @@ Entrada na arena e cutscene, ações do jogador (mover, pular duplo, dash, ataca
 
 ![Fluxograma de combate na arena do chefe](fluxograma-combate.png)
 
+## Versões editáveis no Excalidraw
+
+- **Fluxo geral do jogo:** [abrir no Excalidraw](https://excalidraw.com/#json=o5CcfJYfCDiyDNMFx-eqv,fXNjoW8dDtH68Irqn78JZQ) · [baixar `.excalidraw`](fluxograma-geral.excalidraw)
+- **Combate na arena do chefe:** [abrir no Excalidraw](https://excalidraw.com/#json=aotDFBo7Yo9HM67SkSsJg,MP91m7YwM3xYnB6iyzrNjg) · [baixar `.excalidraw`](fluxograma-combate.excalidraw)
+
+Os links abrem uma cópia do desenho no Excalidraw; os arquivos `.excalidraw` também podem ser importados pelo menu **File → Open**.
+
 ## Símbolos utilizados
 
 - **Terminal (elipse):** início e fim
